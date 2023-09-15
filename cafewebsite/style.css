@@ -1,0 +1,43 @@
+h1, h2 {
+    margin-top: 1.4em;
+    margin-bottom: 0;
+}
+main {
+    max-width: 800px;
+    height: fit-content;
+    margin: 30px auto;
+
+}
+img {
+    width: 600px;
+    height: auto;
+}
+header {
+    background-color: #342a1d;
+}
+header h1 {
+    color: white;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-weight: 500;
+    letter-spacing: .1em;
+    margin: 0;
+    padding: 1em 0;
+}
+nav {
+    background-color: #F4E8D9;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+}
+nav > ul > li {
+    display: inline-block;
+}
+nav a {
+    text-decoration: none;
+    padding: 2em;
+    line-height: 5;
+    color: maroon;
+    font-family: verdana, sans-serif;
+}
+nav li:hover {
+    background-color: #c6b59e;
+}
