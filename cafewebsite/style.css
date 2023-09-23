@@ -41,3 +41,20 @@ nav a {
 nav li:hover {
     background-color: #c6b59e;
 }
+table {
+    margin-top: 20px;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+th {
+    font-size: 40px;
+    font-weight: 400;
+    padding:40px;
+}
+table tr {
+    padding-bottom: 30px;
+}
+form {
+    margin: 0 auto;
+    font-family: verdana, sans-serif;
+}
